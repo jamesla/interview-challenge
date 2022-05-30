@@ -1,0 +1,21 @@
+{
+  "name": "fruit-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
