@@ -1,0 +1,27 @@
+// EXAMPLE DATA - NO NEED TO REVIEW
+[
+  {
+    "name": "apples",
+    "quantity": 7
+  },
+  {
+    "name": "oranges",
+    "quantity": 2
+  },
+  {
+    "name": "pears",
+    "quantity": 9
+  },
+  {
+    "name": "bananas",
+    "quantity": 1
+  },
+  {
+    "name": "kiwifruit",
+    "quantity": 3
+  },
+  {
+    "name": "grapes",
+    "quantity": 5
+  }
+]
